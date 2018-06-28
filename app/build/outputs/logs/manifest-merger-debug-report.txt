@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/44e4b854926ed05861ab673a81ff7893/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/arif-it/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1e2583f4ed9e4d974f1bb67e956423eb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/1b362b82d7004e02692ccb1d0a3e0156/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f254d622cd154ecbcb032155aed218be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/cbd24c699bfec135cb127bf1c3576f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/f78d9b772e751ddb660fb6ea2de1589e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/db3c9576346ce88a67e1dff6b6c89fbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/b59186372e2de54ea9865875d2ee53d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/8ed25856fada136f5050de0f7baa2df8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/a49a5d0b33e74fade5b92ae53fe26a63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/b9f4c1a09fe29a8e22362d80ca01ac42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/0e09e0c8609760df475e889505411513/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/b4a341f219dd01b88a7e462a9de626af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/788100d9d9da3c1539749152a59a7f67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/ff5a274708cd73660239c9dc9b43bce8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/8b87752a597d07813e7fbf6469e6dbc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/1306268672498a45ee66a71d00f943c8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/64c0b591b79450822c73c03b8ee4b429/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6c7c46c857f0c11fc446d119ee5c74f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/559c8aecea56a06c783e98e31623e833/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/8426e1de83a1272bea2df3eb7f9ff804/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/d55020d4c6e0fdf8a1ac8a09a75d487e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/142d543d24edaf48136f06215284b638/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/79a7d4ad895f2427099d0145c9fb47bd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c9ccbd1626abaf45b8a729202c54fceb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0aa69684068fed322627cd3ed0722c5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/55675b4a48698d92d6d8d2f56580d65f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/arif-it/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1e2583f4ed9e4d974f1bb67e956423eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/arif-it/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1e2583f4ed9e4d974f1bb67e956423eb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/1306268672498a45ee66a71d00f943c8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/1306268672498a45ee66a71d00f943c8/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/559c8aecea56a06c783e98e31623e833/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/559c8aecea56a06c783e98e31623e833/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/1306268672498a45ee66a71d00f943c8/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.cmg2.cakra.cakra.MainActivity
+ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/44e4b854926ed05861ab673a81ff7893/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/44e4b854926ed05861ab673a81ff7893/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/arif-it/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1e2583f4ed9e4d974f1bb67e956423eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/arif-it/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1e2583f4ed9e4d974f1bb67e956423eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/1b362b82d7004e02692ccb1d0a3e0156/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/1b362b82d7004e02692ccb1d0a3e0156/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f254d622cd154ecbcb032155aed218be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/f254d622cd154ecbcb032155aed218be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/cbd24c699bfec135cb127bf1c3576f2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/cbd24c699bfec135cb127bf1c3576f2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/f78d9b772e751ddb660fb6ea2de1589e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/f78d9b772e751ddb660fb6ea2de1589e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/db3c9576346ce88a67e1dff6b6c89fbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/db3c9576346ce88a67e1dff6b6c89fbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/b59186372e2de54ea9865875d2ee53d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/b59186372e2de54ea9865875d2ee53d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/8ed25856fada136f5050de0f7baa2df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/8ed25856fada136f5050de0f7baa2df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/a49a5d0b33e74fade5b92ae53fe26a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/a49a5d0b33e74fade5b92ae53fe26a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/b9f4c1a09fe29a8e22362d80ca01ac42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/b9f4c1a09fe29a8e22362d80ca01ac42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/0e09e0c8609760df475e889505411513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/0e09e0c8609760df475e889505411513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/b4a341f219dd01b88a7e462a9de626af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/b4a341f219dd01b88a7e462a9de626af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/788100d9d9da3c1539749152a59a7f67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/788100d9d9da3c1539749152a59a7f67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/ff5a274708cd73660239c9dc9b43bce8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/ff5a274708cd73660239c9dc9b43bce8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/8b87752a597d07813e7fbf6469e6dbc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/8b87752a597d07813e7fbf6469e6dbc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/1306268672498a45ee66a71d00f943c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/1306268672498a45ee66a71d00f943c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/64c0b591b79450822c73c03b8ee4b429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/64c0b591b79450822c73c03b8ee4b429/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6c7c46c857f0c11fc446d119ee5c74f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f6c7c46c857f0c11fc446d119ee5c74f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/559c8aecea56a06c783e98e31623e833/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/559c8aecea56a06c783e98e31623e833/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/8426e1de83a1272bea2df3eb7f9ff804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/8426e1de83a1272bea2df3eb7f9ff804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/d55020d4c6e0fdf8a1ac8a09a75d487e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/d55020d4c6e0fdf8a1ac8a09a75d487e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/142d543d24edaf48136f06215284b638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/142d543d24edaf48136f06215284b638/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/79a7d4ad895f2427099d0145c9fb47bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/79a7d4ad895f2427099d0145c9fb47bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c9ccbd1626abaf45b8a729202c54fceb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c9ccbd1626abaf45b8a729202c54fceb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0aa69684068fed322627cd3ed0722c5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/arif-it/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0aa69684068fed322627cd3ed0722c5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/55675b4a48698d92d6d8d2f56580d65f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/arif-it/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/55675b4a48698d92d6d8d2f56580d65f/AndroidManifest.xml:20:5-44
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+		ADDED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arif-it/AndroidStudioProjects/Cakra/app/src/main/AndroidManifest.xml
